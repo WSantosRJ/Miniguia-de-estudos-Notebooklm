@@ -8,6 +8,8 @@ A pesquisa busca compreender a trajetória de Ozires Silva, seu papel na criaç�
 
 O estudo também aborda temas como **liderança, inovação, engenharia, estratégia empresarial, desenvolvimento tecnológico e visão de longo prazo**.
 
+Segue o Link para o NotebookLM: [O Sonho de Voar — A História de Ozires Silva e da Embraer](https://notebook.google.com/notebook/10981588-e0ef-4512-9ab1-e8e1310d41c6)
+
 ## 🎯 Objetivo
 
 Compreender como conhecimento técnico, formação profissional, liderança, inovação e estratégia foram combinados para transformar um projeto de desenvolvimento aeronáutico brasileiro em uma empresa de alcance internacional.
